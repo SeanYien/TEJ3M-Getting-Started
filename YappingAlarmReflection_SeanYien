@@ -1,0 +1,5 @@
+Reflection-Sean
+
+My project was a alarm that would sound if the sound sensor detected too much noise. Initially, I thought this project was very daunting but after some building I realized it was very achievable after some building.
+I used a buzzer, two LEDs, and LCD screen and a sound sensor. I had trouble calibrating the sound sensor to pick up sound and had a little trouble with the LCD's backlight. To further improve my project, I could have
+made my code more coherent and complex by adding functions in C++.
